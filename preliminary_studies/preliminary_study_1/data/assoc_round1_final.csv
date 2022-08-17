@@ -1,0 +1,977 @@
+"","assoc","word","order_mean","n","attitude_mean"
+"1","CHALLENGE","power",2.94444444444444,18,4.51
+"2","CHALLENGE","erdekes",1,1,5
+"3","CHALLENGE","adventure",2.375,8,4.5
+"4","CHALLENGE","work",2.66666666666667,18,3.1
+"5","CHALLENGE","adrenalin",1.5,2,4.5
+"6","CHALLENGE","task",2.17857142857143,28,3.37380952380952
+"7","CHALLENGE","development",3.46666666666667,30,4.90555555555556
+"8","CHALLENGE","competition",2.5,14,3.63333333333333
+"9","CHALLENGE","idobeosztas",2.5,2,2.5
+"10","CHALLENGE","opportunity",2,20,4.64285714285714
+"11","CHALLENGE","trying",3.28571428571429,21,3.90454545454545
+"12","CHALLENGE","novelty",2.83333333333333,6,3.8
+"13","CHALLENGE","feladat ",1,1,3
+"14","CHALLENGE","fear",2.4,5,1.75
+"15","CHALLENGE","result",3,7,4.7
+"16","CHALLENGE","merni",1,1,4
+"17","CHALLENGE","elhivatottsag",3.5,4,4.66666666666667
+"18","CHALLENGE","trial",3.33333333333333,6,3.75
+"19","CHALLENGE","difficulty",2.23255813953488,43,2.35416666666667
+"20","CHALLENGE","performance",2.3125,16,3.96
+"21","CHALLENGE","success",3.25714285714286,35,4.71333333333333
+"22","CHALLENGE","jutalom",3.83333333333333,6,5
+"23","CHALLENGE","struggle",2.61111111111111,18,3.71666666666667
+"24","CHALLENGE","goal",2.35,20,4.69166666666667
+"25","CHALLENGE","bizonyitas",4,6,4.33333333333333
+"26","CHALLENGE","pozitivitas",2.5,2,5
+"27","CHALLENGE","elszantsag",3,2,5
+"28","CHALLENGE","utazas",1,2,5
+"29","CHALLENGE","learning",3.07142857142857,14,4
+"30","CHALLENGE","university",2.83333333333333,6,3.8
+"31","CHALLENGE","h",3,5,3
+"32","CHALLENGE","challenge",1,1,4
+"33","CHALLENGE","obstacle",2.92307692307692,13,2.51666666666667
+"34","CHALLENGE","erosit ",1,1,4
+"35","CHALLENGE","buszkeseg",1.5,2,5
+"36","CHALLENGE","elbukas",2,2,1
+"37","CHALLENGE","sport",3,4,3.83333333333333
+"38","CHALLENGE","doga",1,1,2
+"39","CHALLENGE","versenges",2.66666666666667,3,3.66666666666667
+"40","CHALLENGE","tulelni",1,1,2
+"41","CHALLENGE","rajz",1,1,5
+"42","CHALLENGE","mindennapok",1,1,5
+"43","CHALLENGE","epito",1,1,5
+"44","CHALLENGE","eletem",1,1,4
+"45","CHALLENGE","gyerekek",1,1,5
+"46","CHALLENGE","problema",2.66666666666667,3,2.66666666666667
+"47","CHALLENGE","motivation",2.375,8,4.88888888888889
+"48","CHALLENGE","ambicio",1,1,5
+"49","CHALLENGE","ugyesseg",1,1,4
+"50","CHALLENGE","felkeszules",3,2,3.5
+"51","CHALLENGE","versenyszellem",2.5,2,4
+"52","CHALLENGE","excitement",3.5,14,4.05
+"53","CHALLENGE","hajra",1,1,5
+"54","CHALLENGE","problemas",1,1,2
+"55","CHALLENGE","teher",1.5,2,1.5
+"56","CHALLENGE","fizkem",1,1,1
+"57","CHALLENGE","kredit",1,1,3
+"58","CHALLENGE","esely",2,2,5
+"59","CHALLENGE","szivas",1,1,1
+"60","CHALLENGE","stress",3.42857142857143,7,2
+"61","CHALLENGE","izgatottsag",1,1,5
+"62","CHALLENGE","verseny ",3.4,5,3.875
+"63","CHALLENGE","ismeretlen",2.75,4,2.83333333333333
+"64","CHALLENGE","turelem",3,3,5
+"65","CHALLENGE","perseverance",2.94117647058824,17,4.7047619047619
+"66","CHALLENGE","motivaltsag",1,1,5
+"67","CHALLENGE","iskola",2.5,2,3.5
+"68","CHALLENGE","megprobaltatas",3.6,5,4
+"69","CHALLENGE","munkahely",1.5,2,4
+"70","CHALLENGE","behivas",1,1,3
+"71","CHALLENGE","tarsasag",1,1,1
+"72","CHALLENGE","meccs",1,1,3
+"73","CHALLENGE","life",3.42857142857143,7,4.375
+"74","CHALLENGE","matek",1,1,2
+"75","CHALLENGE","willpower",3.66666666666667,6,4
+"76","CHALLENGE","batorsag",2.75,4,4.16666666666667
+"77","CHALLENGE","kuldetes",1,1,4
+"78","CHALLENGE","szorongas",2.5,2,1
+"79","CHALLENGE","motorozas",1,1,5
+"80","CHALLENGE","uj",1.66666666666667,3,4
+"81","CHALLENGE","legyozni a szorongasom",1,1,1
+"82","CHALLENGE","fight",3.33333333333333,3,2.33333333333333
+"83","CHALLENGE","szakdolgozat",1,1,3
+"84","CHALLENGE","megfeleles",2,2,3
+"85","CHALLENGE","nem unalmas",2,1,5
+"86","CHALLENGE","moka",2,1,5
+"87","CHALLENGE","faradtsag",3.5,2,2.5
+"88","CHALLENGE","penzugy",2,1,1
+"89","CHALLENGE","elorelepes",2.5,2,5
+"90","CHALLENGE","elegseges",2,1,4
+"91","CHALLENGE","energia",2.5,2,5
+"92","CHALLENGE","ijeszto",3.5,2,2
+"93","CHALLENGE","vagyakozas",2,1,4
+"94","CHALLENGE","munka ",2.5,4,3.75
+"95","CHALLENGE","tehetseg",3,2,5
+"96","CHALLENGE","kockaztatas",2,1,2
+"97","CHALLENGE","onbizalom",3.5,4,5
+"98","CHALLENGE","kitartas ",2,1,5
+"99","CHALLENGE","gondolkodas",3.25,4,3.83333333333333
+"100","CHALLENGE","elmeny",2.75,4,3.5
+"101","CHALLENGE","kreativitas",3,3,5
+"102","CHALLENGE","eroproba",2,1,5
+"103","CHALLENGE","kollegium",2,1,3
+"104","CHALLENGE","kepesseg",2,1,5
+"105","CHALLENGE","failure",3.5,14,1.28125
+"106","CHALLENGE","versenyzes",2,1,2
+"107","CHALLENGE","uj lehetoseg",2,2,4.5
+"108","CHALLENGE","time",3.66666666666667,6,2.41666666666667
+"109","CHALLENGE","videojatek",2,1,4
+"110","CHALLENGE","szenvedes",2,1,1
+"111","CHALLENGE","rewarding",2,1,5
+"112","CHALLENGE","vizsga",2,3,2
+"113","CHALLENGE","torekves",2,1,4
+"114","CHALLENGE","megmaradni",2,1,2
+"115","CHALLENGE","labor",2,1,4
+"116","CHALLENGE","egyetem ",2,1,3
+"117","CHALLENGE","megeri",2.5,2,4.5
+"118","CHALLENGE","eredmeny ",2,1,4
+"119","CHALLENGE","uj feladat",2,1,5
+"120","CHALLENGE","erofeszites ",3.66666666666667,3,4
+"121","CHALLENGE","edzes",2,1,5
+"122","CHALLENGE","gyerunk",2,1,5
+"123","CHALLENGE","victory",3,4,4.5
+"124","CHALLENGE","osztonzes",3.5,2,4.5
+"125","CHALLENGE","tettvagy",2,1,4
+"126","CHALLENGE","uj ",2.5,2,4.5
+"127","CHALLENGE","vetelkedo",2,1,3
+"128","CHALLENGE","nyereseg",3,2,5
+"129","CHALLENGE","harmonikus parkapcsolat fenntartasa",2,1,5
+"130","CHALLENGE","csiko",2,1,5
+"131","CHALLENGE","ellenfel",3.33333333333333,3,2.33333333333333
+"132","CHALLENGE","csapat",3,2,3.5
+"133","CHALLENGE","otleteles",2,1,4
+"134","CHALLENGE","karrier",2,1,5
+"135","CHALLENGE","megmutathatnek",2,1,4
+"136","CHALLENGE","erobefektetes",2,1,3
+"137","CHALLENGE","uj feladatok ",2,1,3
+"138","CHALLENGE","megoldando",3,2,4
+"139","CHALLENGE","tullepes",2,1,5
+"140","CHALLENGE","idotoltes",2,1,5
+"141","CHALLENGE","jogositvany",2,1,5
+"142","CHALLENGE","parbaj",2,1,3
+"143","CHALLENGE","koncentralni",2,1,5
+"144","CHALLENGE","jovo",3.5,2,4
+"145","CHALLENGE","onismeret",3,1,5
+"146","CHALLENGE","valtozatossag",3,1,5
+"147","CHALLENGE","ugras",3,1,4
+"148","CHALLENGE","orom",3.66666666666667,3,5
+"149","CHALLENGE","onallosag",3,1,5
+"150","CHALLENGE","novekedes",3,1,5
+"151","CHALLENGE","vezetes",3,1,2
+"152","CHALLENGE","ugyesseg ",3,1,5
+"153","CHALLENGE","gyerekneveles ",3,1,4
+"154","CHALLENGE","bizonytalansag",3,1,1
+"155","CHALLENGE","fejtores",3,1,2
+"156","CHALLENGE","akaratero",4.25,4,5
+"157","CHALLENGE","ujdonsag ",3,1,4
+"158","CHALLENGE","energia ",3,1,5
+"159","CHALLENGE","uj dolgok",3,1,4
+"160","CHALLENGE","tapasztalat",4.33333333333333,3,5
+"161","CHALLENGE","alairas",3,1,1
+"162","CHALLENGE","effort",3.5,2,2.5
+"163","CHALLENGE","feladas",3,1,1
+"164","CHALLENGE","ellenfelek",3,1,2
+"165","CHALLENGE","megugras",3,1,4
+"166","CHALLENGE","uj perspektiva ",3,1,4
+"167","CHALLENGE","mosoly",3,1,4
+"168","CHALLENGE","panikroham",3,1,1
+"169","CHALLENGE","kimozdit",3,1,4
+"170","CHALLENGE","anal1",3,1,5
+"171","CHALLENGE","alkalmas ",3,1,4
+"172","CHALLENGE","alkotni",3,1,5
+"173","CHALLENGE","tudas",3,1,5
+"174","CHALLENGE","szeretem",3,1,5
+"175","CHALLENGE","szembeszegules",3,1,2
+"176","CHALLENGE","solution",4.33333333333333,3,3.75
+"177","CHALLENGE","intelligencia",3.5,2,5
+"178","CHALLENGE","igyekezet",3,1,4
+"179","CHALLENGE","csalodas",3,1,2
+"180","CHALLENGE","gyengeseg",3,1,2
+"181","CHALLENGE","elmeny ",3,1,5
+"182","CHALLENGE","onbizalom ",3,1,5
+"183","CHALLENGE","felfedezes",3,1,5
+"184","CHALLENGE","jutalom ",3,1,5
+"185","CHALLENGE","kutatas",3,1,3
+"186","CHALLENGE","vizsga ",3,1,2
+"187","CHALLENGE","bukas",3,1,2
+"188","CHALLENGE","anyagibiztonsag erzetet el elerese",3,1,3
+"189","CHALLENGE","csalad",3,1,1
+"190","CHALLENGE","onmegvalositas",3,1,5
+"191","CHALLENGE","jatek",4,2,4
+"192","CHALLENGE","oszpontositas",3,1,4
+"193","CHALLENGE","szembenezes",3,1,3
+"194","CHALLENGE","elengedes",3,1,4
+"195","CHALLENGE","forgalom",3,1,4
+"196","CHALLENGE","-",4,3,3
+"197","CHALLENGE","ismerkedni",3,1,5
+"198","CHALLENGE","helyezes",3,1,5
+"199","CHALLENGE","kenyszer",4,1,3
+"200","CHALLENGE","faraszto",4,1,2
+"201","CHALLENGE","presztizs",4,1,5
+"202","CHALLENGE","merce",4,2,2.5
+"203","CHALLENGE","hatarido",4,1,2
+"204","CHALLENGE","kalandvagy",4,1,5
+"205","CHALLENGE","komfortzona",4.5,2,3.5
+"206","CHALLENGE","kompetencia",4,1,5
+"207","CHALLENGE","problemak",4,1,2
+"208","CHALLENGE","eltokeltseg ",4,1,5
+"209","CHALLENGE","jovedelem",4,1,4
+"210","CHALLENGE","bionika",4,1,1
+"211","CHALLENGE","erdekesseg",4,1,4
+"212","CHALLENGE","hazassag",4,1,2
+"213","CHALLENGE","ketelu penge ",4,1,3
+"214","CHALLENGE","nemmindenapi",4,1,4
+"215","CHALLENGE","rosszullet",4,1,1
+"216","CHALLENGE","algo1",4,1,5
+"217","CHALLENGE","motivacio ",4,1,5
+"218","CHALLENGE","bizonyitek",4,1,5
+"219","CHALLENGE","megoldas ",4.5,2,4.5
+"220","CHALLENGE","folyamat",4,1,3
+"221","CHALLENGE","akarat ",4,1,4
+"222","CHALLENGE","korlatok",4,1,4
+"223","CHALLENGE","tudas invesztalas",4,1,5
+"224","CHALLENGE","megmozgat",4,1,4
+"225","CHALLENGE","gurcoles",4,1,1
+"226","CHALLENGE","komfortzona ",4,1,4
+"227","CHALLENGE","elakadas",4,1,2
+"228","CHALLENGE","100%-os teljesitmeny",4,1,5
+"229","CHALLENGE","feladni",4,1,1
+"230","CHALLENGE","hit",4,1,5
+"231","CHALLENGE","lelkesito ",4,1,5
+"232","CHALLENGE","kivancsisag",4.5,2,4.5
+"233","CHALLENGE","elkotelezettseg ",4,1,5
+"234","CHALLENGE","tervezes",4,1,4
+"235","CHALLENGE","gyozelem ",4,1,5
+"236","CHALLENGE","kemeny munka",4,1,3
+"237","CHALLENGE","palyakezdofizetes",4,1,1
+"238","CHALLENGE","csapatmunka",4,1,3
+"239","CHALLENGE","embernek maradni a mai vilagban",4,1,5
+"240","CHALLENGE","otthon",4,1,4
+"241","CHALLENGE","magabiztossag",4.5,2,3.5
+"242","CHALLENGE","orom ",4,1,5
+"243","CHALLENGE","hatarok",4.5,2,3.5
+"244","CHALLENGE","hazi",4,1,3
+"245","CHALLENGE","rendezettseg",4,1,4
+"246","CHALLENGE","gyakorlas",4,1,4
+"247","CHALLENGE","lemondani dolgokrol",4,1,3
+"248","CHALLENGE","ismeret",5,1,4
+"249","CHALLENGE","idegesseg",5,1,1
+"250","CHALLENGE","growth mindset",5,1,5
+"251","CHALLENGE","csinalni",5,1,5
+"252","CHALLENGE","segitseg",5,1,4
+"253","CHALLENGE","elte",5,1,4
+"254","CHALLENGE","panikzona",5,1,1
+"255","CHALLENGE","flow",5,1,5
+"256","CHALLENGE","erdekes ",5,1,5
+"257","CHALLENGE","ambivalencia ",5,1,2
+"258","CHALLENGE","varakozas",5,1,3
+"259","CHALLENGE","elet ",5,1,4
+"260","CHALLENGE","parbaj ",5,2,3.5
+"261","CHALLENGE","oktatok ",5,1,2
+"262","CHALLENGE","hegy",5,1,4
+"263","CHALLENGE","elfoglalt",5,1,1
+"264","CHALLENGE","egzisztencia",5,1,2
+"265","CHALLENGE","pozitiv ",5,1,5
+"266","CHALLENGE","haladas",5,1,5
+"267","CHALLENGE","siras",5,1,1
+"268","CHALLENGE","onismeret ",5,1,5
+"269","CHALLENGE","szerelem",5,1,4
+"270","CHALLENGE","maximalizmus",5,1,5
+"271","CHALLENGE","elorelepes ",5,1,5
+"272","CHALLENGE","joco",5,1,5
+"273","CHALLENGE","szorgalom",5,1,4
+"274","CHALLENGE","torta",5,1,5
+"275","CHALLENGE","penzszerzes",5,1,3
+"276","CHALLENGE","boldogsag",5,2,5
+"277","CHALLENGE","sok",5,1,2
+"278","CHALLENGE","eletesemeny ",5,1,5
+"279","CHALLENGE","bizonyitasi lehetoseg",5,1,4
+"280","CHALLENGE","ovoda",5,1,5
+"281","CHALLENGE","nekifutas",5,1,5
+"282","CHALLENGE","tamogatas",5,1,4
+"283","CHALLENGE","idohiany",5,1,1
+"284","CHALLENGE","tett vagy",5,1,5
+"285","CHALLENGE","vallalkozas",5,1,3
+"286","CHALLENGE","energia igenyes ",5,1,2
+"287","CHALLENGE","magabiztossag ",5,1,5
+"288","CHALLENGE","nyeremeny",5,1,5
+"289","CHALLENGE","izgalmas",5,1,5
+"290","CHALLENGE","teszt",5,1,5
+"291","CHALLENGE","felkelni",5,1,1
+"292","CHALLENGE","mindig jot fozni :)",5,1,5
+"293","CHALLENGE","kapcsolatok",5,1,1
+"294","CHALLENGE","bizalom",5,1,2
+"295","CHALLENGE","veghezvitel",5,1,4
+"296","CHALLENGE","internet",5,1,2
+"297","CHALLENGE","ketseg",5,1,1
+"298","CHALLENGE","nagy dolog",5,1,3
+"299","CHALLENGE","merkozes",5,1,3
+"300","CHALLENGE","elengedni embereket",5,1,3
+"301","FAILURE","resumption",3.23529411764706,17,4.37333333333333
+"302","FAILURE","disappointment",2.24489795918367,49,1.42424812030075
+"303","FAILURE","loss",2.40909090909091,22,1.37833333333333
+"304","FAILURE","shame",2.5,20,1.05
+"305","FAILURE","pain",2.44444444444444,36,1.24642857142857
+"306","FAILURE","sorrow",2.97727272727273,44,1.15757575757576
+"307","FAILURE","karorom",1,1,1
+"308","FAILURE","opportunity",3.66666666666667,9,4.6
+"309","FAILURE","unsuccessfulness",2.25925925925926,27,1.16
+"310","FAILURE","elkeseredettseg ",1,1,1
+"311","FAILURE","rossz",3.11111111111111,9,1.08333333333333
+"312","FAILURE","ertektelenseg",1,1,1
+"313","FAILURE","failure",2.35294117647059,34,1.02857142857143
+"314","FAILURE","sokk",3,2,1
+"315","FAILURE","success",3.88888888888889,9,4.875
+"316","FAILURE","difficulty",3.07692307692308,13,2.28333333333333
+"317","FAILURE","bme",1,1,2
+"318","FAILURE","teljesitmeny",2.5,2,3.5
+"319","FAILURE","banat ",1.5,2,1
+"320","FAILURE","elbizonytalanodas ",1,1,2
+"321","FAILURE","give up",2.71428571428571,7,1.375
+"322","FAILURE","sikertelenseg ",2,6,1.16666666666667
+"323","FAILURE","vizsga",2.25,4,2.5
+"324","FAILURE","gimnazium",1,1,2
+"325","FAILURE","verseny",2.25,4,2.83333333333333
+"326","FAILURE","p",1,1,1
+"327","FAILURE","depresszio",2,4,1
+"328","FAILURE","kerules",1,1,2
+"329","FAILURE","munka",2.5,4,2.75
+"330","FAILURE","felelem ",3,2,2
+"331","FAILURE","siras",2.75,8,1.2
+"332","FAILURE","defeat",1.57142857142857,7,1.66666666666667
+"333","FAILURE","attempt",3.14285714285714,14,3.61666666666667
+"334","FAILURE","life",2.28571428571429,7,3.41666666666667
+"335","FAILURE","mistake",2.84615384615385,13,1.96666666666667
+"336","FAILURE","fiasko",1,1,2
+"337","FAILURE","stressz",3.57142857142857,7,1.2
+"338","FAILURE","megalazas",1,1,1
+"339","FAILURE","sajnalat ",1,1,1
+"340","FAILURE","mosi",1,1,1
+"341","FAILURE","fejlodes",3.71428571428571,7,3.83333333333333
+"342","FAILURE","szereples",1,1,1
+"343","FAILURE","felek",1,1,1
+"344","FAILURE","grief",2.25,8,1.66666666666667
+"345","FAILURE","felallni",2.33333333333333,3,4.66666666666667
+"346","FAILURE","harc",1.5,2,3
+"347","FAILURE","megfutamodas",1,1,2
+"348","FAILURE","elvaras",1,1,3
+"349","FAILURE","harag",3.25,4,1.25
+"350","FAILURE","negativ elmeny",1,1,1
+"351","FAILURE","egyetem",1.5,2,2
+"352","FAILURE","learning",3.57142857142857,21,4.20619047619048
+"353","FAILURE","miert",1,1,5
+"354","FAILURE","vizsgaidoszak ",1,1,1
+"355","FAILURE","kettes",1,1,3
+"356","FAILURE","elet ",1,1,5
+"357","FAILURE","problema",1.5,2,2
+"358","FAILURE","kukac",1.5,2,2.5
+"359","FAILURE","tovabblepes",3,2,5
+"360","FAILURE","szorongas",2.8,5,1
+"361","FAILURE","felveteli ",1,1,2
+"362","FAILURE","lustasag",1,1,2
+"363","FAILURE","felepules",1,1,5
+"364","FAILURE","remenytelen",1,1,1
+"365","FAILURE","nem jo",1,1,1
+"366","FAILURE","matematika",1,1,3
+"367","FAILURE","akarat",2,1,5
+"368","FAILURE","onbizalomvesztes",2,1,1
+"369","FAILURE","onertekeles",2,1,3
+"370","FAILURE","keves",2,1,1
+"371","FAILURE","gyakorlas",2,1,5
+"372","FAILURE","eredmenytelen",2,1,1
+"373","FAILURE","buntetes",2,1,1
+"374","FAILURE","elbukas",2.5,4,1
+"375","FAILURE","sebezhetoseg",2,1,3
+"376","FAILURE","talpraallas",2,2,5
+"377","FAILURE","kulfold ",2,1,2
+"378","FAILURE","konnyek",3,2,1.5
+"379","FAILURE","meg nem feleles",2,1,1
+"380","FAILURE","uj esely ",3.66666666666667,3,4
+"381","FAILURE","egyes",2.5,2,1
+"382","FAILURE","r",2,1,2
+"383","FAILURE","buntudat",3,2,1
+"384","FAILURE","zavar",2,1,2
+"385","FAILURE","letortseg",2,2,1
+"386","FAILURE","ero",3.2,5,3.5
+"387","FAILURE","elegtelen",2,2,1.5
+"388","FAILURE","hazassag",2,1,1
+"389","FAILURE","lehetoseg ",3,2,5
+"390","FAILURE","elkeseredes",2.33333333333333,3,1.25
+"391","FAILURE","ikhok",2,1,1
+"392","FAILURE","alkalmatlan ",2,1,1
+"393","FAILURE","papir",2,1,3
+"394","FAILURE","tarsas interakciok",2,1,1
+"395","FAILURE","negativ",3.25,4,1
+"396","FAILURE","megbanas",2,1,1
+"397","FAILURE","bizonytalansag",2,2,2
+"398","FAILURE","szigor",2,1,1
+"399","FAILURE","kellemetlen",3,2,2
+"400","FAILURE","hibakereses",2,1,4
+"401","FAILURE","jobban kell probalkozni ",2,1,5
+"402","FAILURE","ujraprobalni",2,1,5
+"403","FAILURE","ujraprobalkozas",3,4,4.16666666666667
+"404","FAILURE","kitartas",4,3,5
+"405","FAILURE","csuszas",2,1,1
+"406","FAILURE","faradtsag",2,1,2
+"407","FAILURE","duh ",2,1,1
+"408","FAILURE","hasznos",2,1,4
+"409","FAILURE","vereseg ",2,1,2
+"410","FAILURE","onbizalom rombolo ",2,1,1
+"411","FAILURE","rossz erzes",2,1,1
+"412","FAILURE","megfeleles",2,1,3
+"413","FAILURE","cserbenhagyas",2,1,1
+"414","FAILURE","meghatralas",2,1,1
+"415","FAILURE","unalom",2,1,1
+"416","FAILURE","iskola",3,5,2.16666666666667
+"417","FAILURE","celtalansag",2,1,2
+"418","FAILURE","giliszta",2,1,2
+"419","FAILURE","csalad",3,2,1.5
+"420","FAILURE","corvinus",2,1,1
+"421","FAILURE","kapcsolatok",2,1,2
+"422","FAILURE","experience",4.16666666666667,6,4.66666666666667
+"423","FAILURE","ujra",3.5,4,3.75
+"424","FAILURE","hibazas",2,1,2
+"425","FAILURE","hiabavalo",2,1,2
+"426","FAILURE","felepites",3,1,4
+"427","FAILURE","uj lehetosegek",3,1,4
+"428","FAILURE","eselytelenseg",3,1,1
+"429","FAILURE","bena",3,2,1
+"430","FAILURE","felallas",3.33333333333333,3,4.75
+"431","FAILURE","penzugy",3,1,2
+"432","FAILURE","tamasz",3,1,5
+"433","FAILURE","meghasonlas",3,1,3
+"434","FAILURE","ujratervezes",3,2,4
+"435","FAILURE","akadaly",4.33333333333333,3,2.5
+"436","FAILURE","kezdet",3,1,5
+"437","FAILURE","en ero ",3,1,4
+"438","FAILURE","szenvedes",3.5,2,1
+"439","FAILURE","onbecsules",3,1,1
+"440","FAILURE","buntudat ",3.5,2,1.5
+"441","FAILURE","onkepzavar ",3,1,1
+"442","FAILURE","konny ",3,1,2
+"443","FAILURE","allategeszsegtan ",3,1,1
+"444","FAILURE","a kudarc az egy esemeny ",3,1,3
+"445","FAILURE","o",3,1,3
+"446","FAILURE","kritika",3,1,1
+"447","FAILURE","zuhanas",3,1,1
+"448","FAILURE","kedvtelen",3,1,2
+"449","FAILURE","baratok",3.5,2,2
+"450","FAILURE","nezopont kerdese ",3,1,3
+"451","FAILURE","sotet",3,1,2
+"452","FAILURE","agy",3,1,5
+"453","FAILURE","szukseges",3,1,3
+"454","FAILURE","motivacio",3,3,4.33333333333333
+"455","FAILURE","eletem",3,1,1
+"456","FAILURE","javitas",3,1,4
+"457","FAILURE","konny",3,1,1
+"458","FAILURE","gyakran elofordul",3,1,3
+"459","FAILURE","idobeosztas",3,1,2
+"460","FAILURE","krizis",3,1,1
+"461","FAILURE","epito",3,1,5
+"462","FAILURE","kiabrandulas",3,1,1
+"463","FAILURE","motivaciovesztes",3.5,2,1.5
+"464","FAILURE","mentor",3,1,1
+"465","FAILURE","pofara eses ",3,1,1
+"466","FAILURE","tough",3,1,4
+"467","FAILURE","keseru",3,1,1
+"468","FAILURE","kuzdelem",3,1,4
+"469","FAILURE","megprobaltatas",3.5,2,2.5
+"470","FAILURE","onbizalomhiany",3.5,2,1
+"471","FAILURE","sikertelen",3,1,1
+"472","FAILURE","szervetlen labor",3,1,1
+"473","FAILURE","uj lehetoseg",3,1,5
+"474","FAILURE","hiabavalosag",3,1,1
+"475","FAILURE","utmutatas",3,1,4
+"476","FAILURE","megosztottsag ",3,1,3
+"477","FAILURE","kuzdes",3,1,4
+"478","FAILURE","erosito (lelekben) ",3,1,5
+"479","FAILURE","gyengeseg",3,1,2
+"480","FAILURE","remenytelenseg",3,1,1
+"481","FAILURE","rosszkedv",3,1,1
+"482","FAILURE","kukacbukac",3,1,5
+"483","FAILURE","odaadas",3,1,5
+"484","FAILURE","magyarorszag",3,1,1
+"485","FAILURE","lelkiismeretfurdalas",3,1,2
+"486","FAILURE","tanarok",3,1,1
+"487","FAILURE","pazarlas",3,1,1
+"488","FAILURE","maskepp",3,1,4
+"489","FAILURE","eselytelen",3,1,1
+"490","FAILURE","elrontott feladatok ",3,1,2
+"491","FAILURE","balsiker",3,1,1
+"492","FAILURE","negativ dolog",3,1,1
+"493","FAILURE","kapcsolat",3,1,5
+"494","FAILURE","letort",3,1,1
+"495","FAILURE","szerelem",3,1,5
+"496","FAILURE","feldolgozas",3,1,4
+"497","FAILURE","valami vege",4,1,3
+"498","FAILURE","elorekezdes",4,1,5
+"499","FAILURE","megallas",4,1,3
+"500","FAILURE","nyomas",4,1,1
+"501","FAILURE","ihlet",4,1,4
+"502","FAILURE","hibazas ",4,1,3
+"503","FAILURE","velemeny",4,1,2
+"504","FAILURE","feladas ",4.5,2,1
+"505","FAILURE","megbizhatatlansag",4,1,1
+"506","FAILURE","allatelettan",4,1,1
+"507","FAILURE","elesettseg",4,1,1
+"508","FAILURE","remeny",4,1,4
+"509","FAILURE","rosszullet ",4,1,1
+"510","FAILURE","b",4,1,2
+"511","FAILURE","blokk",4,1,1
+"512","FAILURE","eleses",4,1,2
+"513","FAILURE","akaras",4,1,3
+"514","FAILURE","videojatek",4,1,2
+"515","FAILURE","masok velemenye",4,1,2
+"516","FAILURE","osszeomlas",4.5,2,1.5
+"517","FAILURE","gyenge",4,1,1
+"518","FAILURE","bizonyitas ",4,1,4
+"519","FAILURE","megalazottsag",4,1,1
+"520","FAILURE","nagyobb erofeszites",4,1,4
+"521","FAILURE","felev",4,1,3
+"522","FAILURE","eredmenytelen ",4,1,1
+"523","FAILURE","fej",4,1,3
+"524","FAILURE","ujabb kihivas",4,1,5
+"525","FAILURE","csod ",4,1,1
+"526","FAILURE","sajnalat",4,1,2
+"527","FAILURE","anatomia",4,1,3
+"528","FAILURE","tarsasag",4,1,2
+"529","FAILURE","ujult ero",4,1,5
+"530","FAILURE","tudatlansag ",4,1,2
+"531","FAILURE","megcsinalom",4,1,5
+"532","FAILURE","remenyvesztettseg",4,1,1
+"533","FAILURE","belso orlodes",4,1,1
+"534","FAILURE","elegedetlenseg",4,1,2
+"535","FAILURE","bizalmatlansag",4,1,1
+"536","FAILURE","vege",4,2,2.5
+"537","FAILURE","feladni ",4,1,1
+"538","FAILURE","negativitas",4.5,2,1
+"539","FAILURE","parkapcsolat",4,2,3
+"540","FAILURE","elfogadas",4.5,2,4
+"541","FAILURE","panik",4,1,2
+"542","FAILURE","feleslegesseg",4,1,1
+"543","FAILURE","csak elore",4,1,5
+"544","FAILURE","gyengeseg ",4,1,1
+"545","FAILURE","szerencse",4,1,3
+"546","FAILURE","remenykedes",4,1,1
+"547","FAILURE","felulkerekedni",4,1,5
+"548","FAILURE","ismetlodes",4,1,3
+"549","FAILURE","tanora",4,1,3
+"550","FAILURE","erdektelenseg",4,1,1
+"551","FAILURE","nyaloka ",4,1,4
+"552","FAILURE","biralat",4,1,1
+"553","FAILURE","cel",4,1,5
+"554","FAILURE","kihivas",4,1,3
+"555","FAILURE","palyazatok",4,1,3
+"556","FAILURE","jatek",4,1,3
+"557","FAILURE","motivacio ",4,1,5
+"558","FAILURE","szukseges rossz",4,1,3
+"559","FAILURE","melypont",4.5,2,1
+"560","FAILURE","meghiusulas",4,1,1
+"561","FAILURE","kellemetlen erzes",4,1,2
+"562","FAILURE","bizonyitasi vagy",4.5,2,4.5
+"563","FAILURE","felkeszuletlenseg",4,1,1
+"564","FAILURE","kardvivas",4,1,3
+"565","FAILURE","penz",4,1,3
+"566","FAILURE","demotivaltsag",4,1,1
+"567","FAILURE","hiany",4.5,2,2
+"568","FAILURE","szulok",4.5,2,2.5
+"569","FAILURE","motivaltsag",5,1,4
+"570","FAILURE","gyozni",5,1,5
+"571","FAILURE","tovabbhaladas",5,1,5
+"572","FAILURE","valtozas",5,2,4
+"573","FAILURE","onreflexio",5,1,5
+"574","FAILURE","esely",5,3,4.66666666666667
+"575","FAILURE","segitseg",5,1,4
+"576","FAILURE","stop",5,1,3
+"577","FAILURE","ora",5,1,3
+"578","FAILURE","kovetkezmeny",5,1,3
+"579","FAILURE","kihivas ",5,1,4
+"580","FAILURE","sport",5,3,2
+"581","FAILURE","celtudat",5,1,5
+"582","FAILURE","gyemgeseg",5,1,2
+"583","FAILURE","levertseg",5,1,1
+"584","FAILURE","a",5,1,3
+"585","FAILURE","uj esely",5,1,5
+"586","FAILURE","tores ",5,1,2
+"587","FAILURE","elkerulendo",5,1,4
+"588","FAILURE","vigasztalas",5,1,4
+"589","FAILURE","kemenyebben",5,1,5
+"590","FAILURE","uj",5,1,4
+"591","FAILURE","onnizalomhiany",5,1,1
+"592","FAILURE","siker ",5,1,5
+"593","FAILURE","mas megkozelites",5,1,4
+"594","FAILURE","teljesitmeny ",5,2,4.5
+"595","FAILURE","joco",5,1,5
+"596","FAILURE","sikertelen ",5,1,1
+"597","FAILURE","pozitivan latni",5,1,5
+"598","FAILURE","elkeserito",5,1,1
+"599","FAILURE","elorelepes",5,1,5
+"600","FAILURE","edesapam",5,1,2
+"601","FAILURE","szanalom",5,1,1
+"602","FAILURE","kozlekedes",5,1,4
+"603","FAILURE","tapasztalat ",5,1,5
+"604","FAILURE","feladat",5,1,4
+"605","FAILURE","tapasztalatlansag",5,1,3
+"606","FAILURE","fekete",5,1,1
+"607","FAILURE","bizalomvesztes",5,1,1
+"608","FAILURE","vigasz",5,1,4
+"609","FAILURE","csod",5,1,1
+"610","FAILURE","lehetetlen",5,1,4
+"611","FAILURE","elront",5,1,2
+"612","FAILURE","hiba ",5,1,3
+"613","FAILURE","kin",5,1,1
+"614","FAILURE","utalat",5,1,1
+"615","FAILURE","elnyomottsag",5,1,1
+"616","FAILURE","stresszoldas",5,1,4
+"617","FAILURE","batorsag",5,1,4
+"618","FAILURE","irigyseg",5,1,1
+"619","FAILURE","cukor",5,1,4
+"620","FAILURE","szeretet",5,1,4
+"621","FAILURE","barat",5,1,1
+"622","FAILURE","csata",5,1,3
+"623","FAILURE","onhibaztatas",5,1,1
+"624","FAILURE","negativ erzes",5,1,1
+"625","FAILURE","balszerencse",5,1,1
+"626","FAILURE","baratsag",5,1,5
+"627","FAILURE","allapot",5,1,3
+"628","FAILURE","belefektetett ido",5,1,3
+"629","CRITICISM","malice",3.28571428571429,7,1.2
+"630","CRITICISM","feedback",2.7,10,3.6
+"631","CRITICISM","elobbrevitel",1,1,5
+"632","CRITICISM","constructive",2.5,58,4.74983766233766
+"633","CRITICISM","development",3.27777777777778,36,4.79125541125541
+"634","CRITICISM","ijedtseg",1,1,2
+"635","CRITICISM","bad",2.91666666666667,12,1.13333333333333
+"636","CRITICISM","lelkiismeret",1,1,2
+"637","CRITICISM","csalad",2.4,5,4
+"638","CRITICISM","learning",3.26315789473684,19,4.45333333333333
+"639","CRITICISM","oszinte ",1,2,4.5
+"640","CRITICISM","opinion",2.41379310344828,29,3.15333333333333
+"641","CRITICISM","konstruktiv",1.33333333333333,3,5
+"642","CRITICISM","onkritika",1,1,3
+"643","CRITICISM","mistake",2.22222222222222,9,1.925
+"644","CRITICISM","vita",2,2,2.5
+"645","CRITICISM","movie",2.55555555555556,9,3.79166666666667
+"646","CRITICISM","useful",2.6,5,4.75
+"647","CRITICISM","pain",2,9,1.125
+"648","CRITICISM","thinking",2.93333333333333,15,4.28333333333333
+"649","CRITICISM","teves",1,1,2
+"650","CRITICISM","onbecsules",2.33333333333333,3,4.66666666666667
+"651","CRITICISM","kornyezet",1,1,5
+"652","CRITICISM","rossz ",2,2,1
+"653","CRITICISM","konstruktiv ",1,2,4.5
+"654","CRITICISM","tanacs ",1.5,2,4.5
+"655","CRITICISM","positive",2,13,4.75
+"656","CRITICISM","tanar",2.66666666666667,6,2.625
+"657","CRITICISM","negativ ",2,8,1
+"658","CRITICISM","parkapcsolat",1,1,5
+"659","CRITICISM","megfeleles",2.75,4,2.5
+"660","CRITICISM","nehezseg",2.8,5,1.66666666666667
+"661","CRITICISM","ez",1,1,1
+"662","CRITICISM","tarsadalom ",1,1,3
+"663","CRITICISM","negative",2.35714285714286,28,1.20595238095238
+"664","CRITICISM","dicseret",2,2,5
+"665","CRITICISM","baratok",2,2,2.5
+"666","CRITICISM","proba",1,1,4
+"667","CRITICISM","review",2.44444444444444,9,2.125
+"668","CRITICISM","offense",3.09090909090909,11,1.0625
+"669","CRITICISM","negativum",3,2,1
+"670","CRITICISM","eloitelet",1,1,1
+"671","CRITICISM","orban",1,1,1
+"672","CRITICISM","kesztyu",1,1,3
+"673","CRITICISM","velemeny ",2.75,8,3.16666666666667
+"674","CRITICISM","bantas",2.33333333333333,3,1
+"675","CRITICISM","ujsag",2.4,5,3.66666666666667
+"676","CRITICISM","irodalom",3,3,4.33333333333333
+"677","CRITICISM","problema ",2,2,1.5
+"678","CRITICISM","motivacio",1,1,5
+"679","CRITICISM","egyetem",1.5,2,3.5
+"680","CRITICISM","help",3.44444444444444,18,4.72619047619048
+"681","CRITICISM","visszajelzes ",2,2,4
+"682","CRITICISM","change",3.28571428571429,7,4.06666666666667
+"683","CRITICISM","media",1,1,3
+"684","CRITICISM","elvaras",3.5,4,2.66666666666667
+"685","CRITICISM","pozitiv kritika",1,1,5
+"686","CRITICISM","szinhaz",1,1,5
+"687","CRITICISM","jo",3.16666666666667,6,4.75
+"688","CRITICISM","tarsadalom",1.75,4,2.33333333333333
+"689","CRITICISM","oszinteseg",2,3,5
+"690","CRITICISM","duh",2.33333333333333,3,1
+"691","CRITICISM","insulting",3.33333333333333,6,1.2
+"692","CRITICISM","onbizalomhiany",1,1,2
+"693","CRITICISM","muveszet",2.66666666666667,3,4.33333333333333
+"694","CRITICISM","fontos ",1,1,5
+"695","CRITICISM","evaluation",3.30769230769231,13,3.5
+"696","CRITICISM","osszeomlas",3,2,1
+"697","CRITICISM","csalodottsag",1,1,1
+"698","CRITICISM","karika",1,1,2
+"699","CRITICISM","ocsarolas",1,1,2
+"700","CRITICISM","erveles",1,1,5
+"701","CRITICISM","pozitiv ",2.6,5,4.83333333333333
+"702","CRITICISM","megnyilvanulas",1,1,3
+"703","CRITICISM","szembesites",1,1,4
+"704","CRITICISM","elfogadas",3,2,5
+"705","CRITICISM","siker",1,1,4
+"706","CRITICISM","alabecsules",1,1,1
+"707","CRITICISM","kritizalas",2.33333333333333,3,1
+"708","CRITICISM","megjegyzes",1,1,3
+"709","CRITICISM","iras",2.83333333333333,6,3.9
+"710","CRITICISM","iskola",3.33333333333333,3,3.33333333333333
+"711","CRITICISM","otletek ",2,1,5
+"712","CRITICISM","tamogato",2,1,5
+"713","CRITICISM","destructive",3.5,6,1
+"714","CRITICISM","jo ",2,2,5
+"715","CRITICISM","teljesitmeny",2.5,4,3.75
+"716","CRITICISM","udvariassag",2,1,5
+"717","CRITICISM","elutasitottsag",2,1,1
+"718","CRITICISM","vedekezes",2,1,1
+"719","CRITICISM","hivatas",2,1,4
+"720","CRITICISM","felelem",2.8,5,1.11111111111111
+"721","CRITICISM","szemlelet ",2,1,5
+"722","CRITICISM","szukseges ",2,1,4
+"723","CRITICISM","gyors",2,1,2
+"724","CRITICISM","onreflexio",2,1,5
+"725","CRITICISM","judgement",2.66666666666667,6,1.66666666666667
+"726","CRITICISM","megvetes ",2,1,1
+"727","CRITICISM","megbotrankoztato",2,1,2
+"728","CRITICISM","filmkritika",2,1,4
+"729","CRITICISM","sztereotipia",2.5,2,2
+"730","CRITICISM","eszrevetelek",2,1,3
+"731","CRITICISM","improvement",3.86666666666667,15,4.68055555555556
+"732","CRITICISM","k",2,1,2
+"733","CRITICISM","hianyossag",2,1,3
+"734","CRITICISM","szidalmazas",2,1,1
+"735","CRITICISM","munkahely",2,1,4
+"736","CRITICISM","asszertiv",2,1,4
+"737","CRITICISM","tudomanyos",2,1,4
+"738","CRITICISM","onbizalomeses",2,1,1
+"739","CRITICISM","batorito",2,1,5
+"740","CRITICISM","hirnev ",2,1,3
+"741","CRITICISM","konyv",3.25,4,4
+"742","CRITICISM","pozitivum",2,1,5
+"743","CRITICISM","igazsag",2,1,5
+"744","CRITICISM","hok",2,1,3
+"745","CRITICISM","megalazas",2.66666666666667,3,1
+"746","CRITICISM","mosogato",2,1,2
+"747","CRITICISM","nyomas",3,2,1.5
+"748","CRITICISM","tulajdonsag ",2,1,1
+"749","CRITICISM","tanarok",2,1,3
+"750","CRITICISM","megbantas",2,1,1
+"751","CRITICISM","szeretettel",2,1,5
+"752","CRITICISM","politika",2,1,2
+"753","CRITICISM","negativ kritika",2,1,1
+"754","CRITICISM","ertelmezes",2,1,5
+"755","CRITICISM","csalodas",2,1,1
+"756","CRITICISM","ujsagiras",2,1,3
+"757","CRITICISM","szemelyisegfejlodes",2,1,4
+"758","CRITICISM","komment",2,1,2
+"759","CRITICISM","lehetoseg",3.6,5,4.875
+"760","CRITICISM","haladas",3.66666666666667,3,5
+"761","CRITICISM","emberek",3,3,3
+"762","CRITICISM","fontos",3.5,2,3
+"763","CRITICISM","rombolo ",2,1,1
+"764","CRITICISM","kotekedes",3.33333333333333,3,1.33333333333333
+"765","CRITICISM","hierarchia",3,2,2.5
+"766","CRITICISM","kudarc",3.5,2,1
+"767","CRITICISM","tarsak",2,1,3
+"768","CRITICISM","paprika",2,1,3
+"769","CRITICISM","zavartsag",2,1,2
+"770","CRITICISM","elismeres",2,1,4
+"771","CRITICISM","kozony",2,1,2
+"772","CRITICISM","irigyseg",2,1,2
+"773","CRITICISM","modszer",2,1,3
+"774","CRITICISM","ellenszenv",2,1,1
+"775","CRITICISM","szurkalodas",2,1,2
+"776","CRITICISM","negativ velemeny",2,1,1
+"777","CRITICISM","mufaj",2,1,3
+"778","CRITICISM","zene",2,1,5
+"779","CRITICISM","megvetes",2,1,2
+"780","CRITICISM","onismeret",3,1,5
+"781","CRITICISM","oszinte",3,1,5
+"782","CRITICISM","visszatarto",3,1,2
+"783","CRITICISM","tamadas",3.5,2,1
+"784","CRITICISM","munka",3.8,5,3.16666666666667
+"785","CRITICISM","vitriol",3,1,1
+"786","CRITICISM","otlet",3,1,5
+"787","CRITICISM","szerethetetlenseg",3,1,1
+"788","CRITICISM","erzek",3,1,4
+"789","CRITICISM","szemleletvaltas",3.5,2,4.5
+"790","CRITICISM","anya",3,1,2
+"791","CRITICISM","nem tetszes ",3,1,1
+"792","CRITICISM","erdekes",3,1,3
+"793","CRITICISM","cinikus megjegyzes",3,1,1
+"794","CRITICISM","tehetseg",3,1,3
+"795","CRITICISM","kenyszer",3,1,1
+"796","CRITICISM","benyomas",3,1,3
+"797","CRITICISM","a",4,2,3.5
+"798","CRITICISM","feltekenyseg",3,1,2
+"799","CRITICISM","hatarozottsag ",3,1,4
+"800","CRITICISM","osztonzes",3,2,4.5
+"801","CRITICISM","makacs",3,1,2
+"802","CRITICISM","emlekezteto",3,1,4
+"803","CRITICISM","onbecsules ",3,1,4
+"804","CRITICISM","kultura",3,1,5
+"805","CRITICISM","puzser",3,1,3
+"806","CRITICISM","szulok",3,1,2
+"807","CRITICISM","tv",3,1,4
+"808","CRITICISM","en",3,1,3
+"809","CRITICISM","hibazas",3,1,1
+"810","CRITICISM","enkep",3,1,5
+"811","CRITICISM","apa",3,1,5
+"812","CRITICISM","szigoru ",3,1,2
+"813","CRITICISM","eloremutato ",3,1,4
+"814","CRITICISM","kotekedo",3,1,2
+"815","CRITICISM","szegyen",3,1,1
+"816","CRITICISM","makacssag",3,1,4
+"817","CRITICISM","jutalom",3,1,4
+"818","CRITICISM","mozi",3,1,5
+"819","CRITICISM","figyelem ",3,1,5
+"820","CRITICISM","zsuri",3,1,3
+"821","CRITICISM","jegy",3,1,2
+"822","CRITICISM","hiba ",3,1,2
+"823","CRITICISM","oktatas",3,1,2
+"824","CRITICISM","megfontolando",3,1,5
+"825","CRITICISM","eszrevetel",3,1,2
+"826","CRITICISM","befolyasolas",4,3,1.33333333333333
+"827","CRITICISM","szubjektiv",3,1,2
+"828","CRITICISM","fozoverseny",3,1,3
+"829","CRITICISM","csapat ",3,1,4
+"830","CRITICISM","tukor",3,1,3
+"831","CRITICISM","paradicsom ",3,1,4
+"832","CRITICISM","elony",3,1,4
+"833","CRITICISM","nok",3,1,2
+"834","CRITICISM","szukseges",4,2,3.5
+"835","CRITICISM","megalazo",3.5,2,1
+"836","CRITICISM","szorszalhasogatas",3,1,2
+"837","CRITICISM","becsmerles",4,2,1.5
+"838","CRITICISM","beszamolo",3,1,2
+"839","CRITICISM","jellemzes",4,2,3.5
+"840","CRITICISM","eloadasforma",4,1,3
+"841","CRITICISM","gonosz",4,1,1
+"842","CRITICISM","mindenki",4,1,2
+"843","CRITICISM","megfontolas",4,1,5
+"844","CRITICISM","kitartas",4,1,5
+"845","CRITICISM","elvorosodes",4,1,2
+"846","CRITICISM","kellemetlen",4,2,1.5
+"847","CRITICISM","konfliktus",4,1,3
+"848","CRITICISM","belekotes",4,1,1
+"849","CRITICISM","piszkalodas",4,1,2
+"850","CRITICISM","megsemmisules",4,1,1
+"851","CRITICISM","lehuzo",4.5,2,1
+"852","CRITICISM","eles",4,1,1
+"853","CRITICISM","szorongas ",4,1,2
+"854","CRITICISM","jogos ",4,1,4
+"855","CRITICISM","elbizonytalanodas",4,1,1
+"856","CRITICISM","velemenyezes ",4,1,3
+"857","CRITICISM","jellegzetes ",4,1,5
+"858","CRITICISM","intelligencia",4,1,5
+"859","CRITICISM","gonoszsag ",4,1,1
+"860","CRITICISM","idegenek ",4,1,1
+"861","CRITICISM","megiteles ",4,1,3
+"862","CRITICISM","keretlen",4,1,1
+"863","CRITICISM","sok",4,1,1
+"864","CRITICISM","t",4,1,3
+"865","CRITICISM","benyomas ",4,1,3
+"866","CRITICISM","lecso",4,1,5
+"867","CRITICISM","lenezes",4,1,2
+"868","CRITICISM","irigyseg ",4.5,2,1
+"869","CRITICISM","jobbnak lenni",4,1,4
+"870","CRITICISM","ferfi",4,1,4
+"871","CRITICISM","igyekves",4,1,4
+"872","CRITICISM","elkeseredettseg",4,1,2
+"873","CRITICISM","kell",4,1,3
+"874","CRITICISM","szabadsag",4,1,4
+"875","CRITICISM","pelda",4,1,5
+"876","CRITICISM","hazugsag",4,1,1
+"877","CRITICISM","joindulat",4,1,5
+"878","CRITICISM","hasznos ",4,1,5
+"879","CRITICISM","teljesites",4,1,4
+"880","CRITICISM","masok",4,1,2
+"881","CRITICISM","pozitiv v negativ ",4,1,3
+"882","CRITICISM","megprobalni",4,1,5
+"883","CRITICISM","ijeszto",4,1,1
+"884","CRITICISM","civil",4,1,5
+"885","CRITICISM","buszkeseg",4,2,3.5
+"886","CRITICISM","minosites",4,2,2.5
+"887","CRITICISM","hagyni",4,1,3
+"888","CRITICISM","megalazottsag",4,1,1
+"889","CRITICISM","beszed",4,1,3
+"890","CRITICISM","kulso",4,1,2
+"891","CRITICISM","rosszul eso ",4,1,2
+"892","CRITICISM","rosszul eso",4,1,1
+"893","CRITICISM","rossz megjegyzes",4,1,1
+"894","CRITICISM","irodalom ",4,1,3
+"895","CRITICISM","onertekeles",4,1,3
+"896","CRITICISM","szo",4,1,3
+"897","CRITICISM","pizza",4,1,5
+"898","CRITICISM",".",4.5,2,3
+"899","CRITICISM","frusztracio",4,1,2
+"900","CRITICISM","bizonyitas",4,1,5
+"901","CRITICISM","erett",4,1,4
+"902","CRITICISM","elorelepes",4.5,2,5
+"903","CRITICISM","szakdolgozat",4,1,4
+"904","CRITICISM","leertekel",4,1,1
+"905","CRITICISM","udvarias",4,1,5
+"906","CRITICISM","nyers",4,1,2
+"907","CRITICISM","megiteles",4,1,1
+"908","CRITICISM","divat",4,1,3
+"909","CRITICISM","esely",4,1,5
+"910","CRITICISM","massag",4,1,1
+"911","CRITICISM","tapintat",5,1,5
+"912","CRITICISM","mas szemlelet",5,1,4
+"913","CRITICISM","viszolygas",5,1,1
+"914","CRITICISM","folyamat",5,1,3
+"915","CRITICISM","mentor",5,2,4.5
+"916","CRITICISM","ero",5,1,5
+"917","CRITICISM","hallgatas",5,1,4
+"918","CRITICISM","szocialis izolacio",5,1,1
+"919","CRITICISM","teljesites ",5,1,2
+"920","CRITICISM","kitol",5,1,3
+"921","CRITICISM","lelombozas",5,1,1
+"922","CRITICISM","profi",5,1,5
+"923","CRITICISM","csufolodas",5,1,1
+"924","CRITICISM","onmagam",5,1,4
+"925","CRITICISM","ujsag ",5,1,2
+"926","CRITICISM","feladat",5,1,3
+"927","CRITICISM","filmek",5,1,4
+"928","CRITICISM","joindulatu ",5,1,4
+"929","CRITICISM","akadaly",5,1,2
+"930","CRITICISM","tures",5,1,4
+"931","CRITICISM","onutalat",5,1,1
+"932","CRITICISM","jeg",5,1,2
+"933","CRITICISM","szegyen ",5,1,2
+"934","CRITICISM","koncentralas",5,1,4
+"935","CRITICISM","kritikus",5,1,3
+"936","CRITICISM","kampany",5,1,2
+"937","CRITICISM","fozes",5,1,2
+"938","CRITICISM","tobb nezopont",5,1,5
+"939","CRITICISM","barati",5,1,5
+"940","CRITICISM","bosszuvagy",5,1,1
+"941","CRITICISM","erzesek",5,1,3
+"942","CRITICISM","elfogadas ",5,1,5
+"943","CRITICISM","igazsagtalansag",5,1,1
+"944","CRITICISM","tudas atadas ",5,1,5
+"945","CRITICISM","stop",5,1,4
+"946","CRITICISM","felelmetes",5,1,1
+"947","CRITICISM","onbizalom",5,1,4
+"948","CRITICISM","pontszam",5,1,2
+"949","CRITICISM","lecke",5,1,5
+"950","CRITICISM","pontozas",5,1,3
+"951","CRITICISM","biztatas",5,1,5
+"952","CRITICISM","tanacs",5,1,4
+"953","CRITICISM","latasmod",5,1,3
+"954","CRITICISM","teher",5,1,1
+"955","CRITICISM","igaz baratsag",5,1,4
+"956","CRITICISM","internet",5,1,4
+"957","CRITICISM","guny",5,1,1
+"958","CRITICISM","leszolas",5,1,1
+"959","CRITICISM","pozitiv-negativ",5,1,5
+"960","CRITICISM","okos",5,1,5
+"961","CRITICISM","ellentetes",5,1,3
+"962","CRITICISM","nemtetszes",5,1,1
+"963","CRITICISM","verseny",5,1,3
+"964","CRITICISM","panaszkodas",5,1,1
+"965","CRITICISM","merce",5,1,3
+"966","CRITICISM","hatraltatas",5,1,2
+"967","CRITICISM","pomodoro",5,1,5
+"968","CRITICISM","elegedetlenseg",5,1,3
+"969","CRITICISM","tekintelyszemely ",5,1,5
+"970","CRITICISM","megfogad",5,1,5
+"971","CRITICISM","ujratervezes",5,1,4
+"972","CRITICISM","facebook",5,1,3
+"973","CRITICISM","megoszto",5,1,3
+"974","CRITICISM","pozitiv velemeny",5,1,5
+"975","CRITICISM","reflekcio",5,1,4
+"976","CRITICISM","dolgozat",5,1,2
