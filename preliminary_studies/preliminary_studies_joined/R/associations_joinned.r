@@ -59,7 +59,7 @@ assoc2<- data.frame(lapply(assoc2,      # Convert everything to lower case with 
 assoc<-rbind(assoc1, assoc2)
 
 #writing out raw collapsed data
-write.csv(assoc, "preliminary_studies_joined/data/raw_data_preliminary_studies.csv")
+#write.csv(assoc, "preliminary_studies_joined/data/raw_data_preliminary_studies.csv")
 
 #cleaning words from accents
 assoc$challenge_1 <- stri_trans_general(assoc$challenge_1, "Latin-ASCII")
@@ -356,7 +356,7 @@ word_attitudes <-
 assoc_joinned_final<-left_join(n_order, word_attitudes, by = c("word", "assoc"))
 
 #writing out cleaned, joinned dataframe
-write.csv(assoc_joinned_final, "preliminary_studies_joined/data/assoc_prestudies_final.csv")
+#write.csv(assoc_joinned_final, "preliminary_studies_joined/data/assoc_prestudies_final.csv")
 
 #creating co-occurrences table
 pair<- associations_by_id %>% 
@@ -392,12 +392,11 @@ nested_pairs <-
                                      point.padding = unit(1, "lines")) +
                       guides(fill = FALSE, alpha = FALSE, edge_alpha = FALSE, size=FALSE) +
                       theme_graph() +
-                      labs(title = "Association Co-occurrences to Challenge",
+                      labs(title = "Association Co-occurrences to Criticism",
                            subtitle ="Co-occurrences of free word associations to challenge by Hungarian students. Wider lines show more frequent occurrences between the pairs.")
                       
                     )
   )
 nested_pairs[[1,"plot"]] 
 nested_pairs[[2,"plot"]] 
-
 
