@@ -1,8 +1,13 @@
 library(tidyverse)
 library(ggpubr)
 library(Hmisc)
-#plotting implicit citicism mindset and explicit criticism mindset
 
+
+
+final_data<- read.csv("data/final_data/final_pilot_1.csv")
+#load data
+
+#plotting implicit citicism mindset and explicit criticism mindset
 
 ggscatter(final_data, x = "crit_d", y = "crms_avg", 
           add = "reg.line", conf.int = TRUE,
